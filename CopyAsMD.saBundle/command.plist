@@ -123,7 +123,7 @@ Output table is UTF8-encoded and should be viewed with a monospaced font.</strin
 	<key>input</key>
 	<string>selectedtablerowsastab</string>
 	<key>name</key>
-	<string>CopyAsMarkdown</string>
+	<string>CopyAsMD</string>
 	<key>output</key>
 	<string>none</string>
 	<key>scope</key>
